@@ -1,0 +1,15 @@
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoAPP
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoAPP.deps.json
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoAPP.runtimeconfig.json
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoAPP.dll
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoAPP.pdb
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoAPP.csproj.AssemblyReference.cache
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoAPP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoAPP.AssemblyInfoInputs.cache
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoAPP.AssemblyInfo.cs
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoAPP.csproj.CoreCompileInputs.cache
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoAPP.dll
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/refint/ToDoAPP.dll
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoAPP.pdb
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoAPP.genruntimeconfig.cache
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ref/ToDoAPP.dll

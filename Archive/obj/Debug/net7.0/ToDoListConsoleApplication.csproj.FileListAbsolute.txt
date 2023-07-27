@@ -1,0 +1,15 @@
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoListConsoleApplication.csproj.AssemblyReference.cache
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoListConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoListConsoleApplication.AssemblyInfoInputs.cache
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoListConsoleApplication.AssemblyInfo.cs
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoListConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoListConsoleApplication
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoListConsoleApplication.deps.json
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoListConsoleApplication.runtimeconfig.json
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoListConsoleApplication.dll
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/bin/Debug/net7.0/ToDoListConsoleApplication.pdb
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoListConsoleApplication.dll
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/refint/ToDoListConsoleApplication.dll
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoListConsoleApplication.pdb
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ToDoListConsoleApplication.genruntimeconfig.cache
+/Users/abdulfetahsultan/Projects/ToDoAPP/ToDoAPP/obj/Debug/net7.0/ref/ToDoListConsoleApplication.dll
